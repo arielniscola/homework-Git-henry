@@ -23,3 +23,7 @@ function ariel(){
         country: "Argentina"
     }
 }
+
+function saludo(){
+    return "Hol mundo"
+}
