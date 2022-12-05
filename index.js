@@ -7,3 +7,11 @@ function laCajaDePandora(numero){
       return numero.toString(16)
   }
     }
+
+const Brian = () =>{
+    return{
+        name: 'Brian',
+        age: 19, // ya se, parezco mucho mayor jsjsjsj
+        country: 'Argentina'
+    } 
+}
