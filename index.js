@@ -14,3 +14,12 @@ function laCajaDePandora(numero){
         return hexadecimal
     }
 }
+
+
+function ariel(){
+    return {
+        name: "Ariel Niscola",
+        age: 31, // el mas grande quizas ja
+        country: "Argentina"
+    }
+}
